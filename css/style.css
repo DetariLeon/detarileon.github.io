@@ -1,28 +1,48 @@
-body{
+body {
     background-color: #fbefbd;
 }
-nav{
+
+nav {
     background-color: #1f5b25;
     padding: 15px;
 }
-nav a{
-    color : white;
+
+nav a {
+    color: white;
     margin: 15px;
     text-decoration: none;
 }
-nav a:hover{
-    color : white;
-   text-decoration: none;
+
+nav a:hover {
+    color: white;
+    text-decoration: none;
 }
-nav a:first-child{
+
+nav a:first-child {
     font-size: 1.5em;
 }
 
-nav a:first-child img{
+nav a:first-child img {
     width: 25px;
 }
-.banner{
+
+.banner {
     background-image: url(/img/coffess/photo_3_2024-11-11_13-43-49.jpg);
     background-position: center center;
     background-size: cover;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1f5b25;
+    text-align: center;
+}
+
+.kave {
+    color: #1f5b25;
+    background-color: #fff;
+    border: 1px solid #1f5b25;
+    border-radius: 4px;
+    margin-bottom: 1rem;
 }
