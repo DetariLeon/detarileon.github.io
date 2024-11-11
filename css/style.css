@@ -26,3 +26,9 @@ nav a:first-child img{
     background-position: center center;
     background-size: cover;
 }
+.kave h2{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

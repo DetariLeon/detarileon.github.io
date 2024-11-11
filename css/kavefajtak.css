@@ -4,6 +4,7 @@ body{
 nav{
     background-color: #1f5b25;
     padding: 15px;
+    position: fixed;
 }
 nav a{
     color : white;
@@ -22,7 +23,8 @@ nav a:first-child img{
     width: 25px;
 }
 .banner{
-    background-image: url(/img/coffess/photo_3_2024-11-11_13-43-49.jpg);
+    background-image: url(/img/coffess/backg.jpg);
     background-position: center center;
     background-size: cover;
+    height: 400px;
 }
