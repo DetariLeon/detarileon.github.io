@@ -8,6 +8,7 @@ nav{
 nav a{
     color : white;
     margin: 15px;
+    text-decoration: none;
 }
 nav a:hover{
     color : white;
@@ -17,3 +18,11 @@ nav a:first-child{
     font-size: 1.5em;
 }
 
+nav a:first-child img{
+    width: 25px;
+}
+.banner{
+    background-image: url(/img/coffess/photo_3_2024-11-11_13-43-49.jpg);
+    background-position: center center;
+    background-size: cover;
+}
