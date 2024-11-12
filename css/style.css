@@ -53,3 +53,11 @@ h1 {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+.kave:hover{
+    box-shadow: 0px 0px 5px #1f5b25;
+}
+#napiajanlat{
+    width: 40px;
+    position: absolute;
+   
+}
